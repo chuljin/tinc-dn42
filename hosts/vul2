@@ -1,6 +1,5 @@
 address=vul2.chuljin.com
 port=656
-subnet=172.20.18.54/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAu5VVzjom32tzMTtAP1EysbnbAX/Pim+dFkoaQkDiQo3wJuBllSxE

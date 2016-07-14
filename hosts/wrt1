@@ -1,6 +1,5 @@
 address=home.chuljin.com
 port=656
-subnet=172.20.18.49/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAw8ybkjQ7vqJHtBa4EK3eB4fepos7fyhhOyRJ2+8QLSZ9UTr42d5E

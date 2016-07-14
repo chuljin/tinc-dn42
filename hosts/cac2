@@ -1,6 +1,5 @@
 address=cac2.chuljin.com
 port=656
-subnet=172.20.18.52/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAyfdnBNo3Kt0okYKn9VnftvWQfKuB2AcWgFDJ0w7y0aSNq3WX79Yz
