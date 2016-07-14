@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "----- SUBNET UP: $SUBNET $WEIGHT $NODE" | tee -a /var/log/tinc-dn42 | logger -t tinc-dn42
+ip ro add $SUBNET dev $INTERFACE metric $WEIGHT
