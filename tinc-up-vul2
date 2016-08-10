@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "----- TINC UP" | tee -a /var/log/tinc-dn42 | logger -t tinc-dn42
+ifconfig $INTERFACE up
+ip addr add 172.23.248.253/29 broadcast 172.23.248.255 scope link dev $INTERFACE
+ip -6 addr add fd98:abd0:29cc:f420::fff5/124 scope global dev $INTERFACE
